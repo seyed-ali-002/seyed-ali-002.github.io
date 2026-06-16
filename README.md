@@ -8,7 +8,7 @@ A modern, responsive, bilingual (English/Persian) portfolio website designed to 
 
 ## 🚀 Live Demo | مشاهده آنلاین
 
-🔗 https://YOUR_USERNAME.github.io
+🔗 https://seyed-ali-002.github.io
 
 ---
 
@@ -80,13 +80,13 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+git clone https://github.com/seyed-ali-002/seyed-ali-002.github.io.git
 ```
 
 Open the project:
 
 ```bash
-cd REPOSITORY_NAME
+cd seyed-ali-002.github.io
 ```
 
 Run locally:
@@ -102,13 +102,13 @@ Or simply open the file in your browser.
 ابتدا مخزن را کلون کنید:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+git clone https://github.com/seyed-ali-002/seyed-ali-002.github.io.git
 ```
 
 وارد پوشه پروژه شوید:
 
 ```bash
-cd REPOSITORY_NAME
+cd seyed-ali-002.github.io
 ```
 
 سپس فایل `index.html` را در مرورگر باز کنید.
@@ -118,9 +118,9 @@ cd REPOSITORY_NAME
 ## 🌍 Language Support | پشتیبانی از زبان‌ها
 
 | Language | Status |
-|----------|---------|
-| English | ✅ |
-| فارسی | ✅ |
+| -------- | ------ |
+| English  | ✅     |
+| فارسی    | ✅     |
 
 Users can switch between English and Persian directly from the website interface.
 
@@ -156,10 +156,10 @@ This project was created to serve as my personal portfolio website and online re
 
 ## 📫 Contact | ارتباط با من
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Telegram: https://t.me/YOUR_USERNAME
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/seyed-ali-002
+- LinkedIn: https://linkedin.com/in/seyed-ali-002 (not yet :)
+- Telegram: https://t.me/seyed_ali_002
+- Email: alialhosseini.2025@gmail.com
 
 ---
 
@@ -186,3 +186,7 @@ Python Backend Developer
 ⭐ If you found this project useful, consider giving it a star.
 
 اگر این پروژه برای شما مفید بود، خوشحال می‌شوم به آن ستاره بدهید.
+
+---
+
+Generated with AI :)

@@ -207,8 +207,8 @@
   /* ============================================================
      HERO ROLE TYPING
      ============================================================ */
-  const rolesEN = ['Backend Developer', 'API Architect', 'Systems Engineer', 'Cloud Native Dev'];
-  const rolesFA = ['توسعه‌دهنده بک‌اند', 'معمار API', 'مهندس سیستم', 'توسعه‌دهنده Cloud Native'];
+  const rolesEN = ['Backend Developer', 'API Architect', 'Django Developer'];
+  const rolesFA = ['توسعه‌دهنده بک‌اند', 'معمار API', 'توسعه‌دهنده جنگو'];
   const roleEl  = document.querySelector('.hero-role span[data-en]');
   let roleIdx = 0, charIdx = 0, deleting = false;
 
